@@ -1,0 +1,16 @@
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\bin\Debug\net5.0\IA_Basic.exe
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\bin\Debug\net5.0\IA_Basic.deps.json
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\bin\Debug\net5.0\IA_Basic.runtimeconfig.json
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\bin\Debug\net5.0\IA_Basic.runtimeconfig.dev.json
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\bin\Debug\net5.0\IA_Basic.dll
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\bin\Debug\net5.0\ref\IA_Basic.dll
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\bin\Debug\net5.0\IA_Basic.pdb
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\obj\Debug\net5.0\IA_Basic.csprojAssemblyReference.cache
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\obj\Debug\net5.0\IA_Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\obj\Debug\net5.0\IA_Basic.AssemblyInfoInputs.cache
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\obj\Debug\net5.0\IA_Basic.AssemblyInfo.cs
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\obj\Debug\net5.0\IA_Basic.csproj.CoreCompileInputs.cache
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\obj\Debug\net5.0\IA_Basic.dll
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\obj\Debug\net5.0\ref\IA_Basic.dll
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\obj\Debug\net5.0\IA_Basic.pdb
+C:\Users\Aureb\source\repos\IA_Basic\IA_Basic\obj\Debug\net5.0\IA_Basic.genruntimeconfig.cache
